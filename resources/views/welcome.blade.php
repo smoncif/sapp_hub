@@ -91,6 +91,5 @@
                 </div>
             </div>
         </div>
-        #page>div.logo+ul#navigation>li*5>a{Item $}
     </body>
 </html>
